@@ -12,7 +12,7 @@
 
 ---
 
-## ⚙️ Setup 
+## ⚙️ Setup  
 
 Dans ce laboratoire, vous travaillerez sur une application calculatrice. Cette calculatrice est volontairement très simple afin que nous puissions nous concentrer sur la configuration et la structure du projet, ainsi que sur la création d'un pipeline CI/CD.
 
